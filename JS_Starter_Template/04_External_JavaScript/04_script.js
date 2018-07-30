@@ -1,14 +1,13 @@
 // Add your JavaScript code here
-
 function blue() {
-    document.querySelector('#green_p').style.backgroundColor='blue';
+    document.querySelector('#green-p').style.backgroundColor='blue';
 }
 function red() {
-    document.querySelector('#green_p').style.backgroundColor='red';
-}x
+    document.querySelector('#green-p').style.backgroundColor='red';
+}
 function facebook() {
-    onclick="document.querySelector('#myImage').setAttribute('src','../img/youtube.jpg')";
+    document.querySelector('#myImage').setAttribute('src','../img/facebook.jpg');
 }
 function youtube() {
-    onclick="document.querySelector('#myImage').setAttribute('src','../img/youtube.jpg')";
+    document.querySelector('#myImage').setAttribute('src','../img/youtube.jpg');
 }

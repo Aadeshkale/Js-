@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inline Js example</title>
+    <link rel="stylesheet" type="text/css" href="inline.css">
+</head>
+<body>
+        <h1>Inline javaScript Example</h1>
+        <h1 id="color"> Change my Background color<br>
+            <input type="button" value="Change to blue" id="blue" onclick="document.querySelector('#color').style.backgroundColor='blue' ">
+            <input type="button" value=" change to red"  id="red" onclick="document.querySelector('#color').style.backgroundColor='red'">
+        </h1>
+        <div>
+            <img src="../img/google.jpg" id="image"><br>
+            <input type="button" value="Facebook" onclick="document.querySelector('#image').setAttribute('src','../img/facebook.jpg')">
+            <input type="button" value="Youtube" onclick="document.querySelector('#image').setAttribute('src','../img/youtube.jpg')">
+        </div>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Internal Js example</title>
+    <link rel="stylesheet" type="text/css" href="internal.css">
+</head>
+<body>
+        <h1>Internal javaScript Example</h1>
+        <h1 id="color"> Change my Background color<br>
+            <input type="button" value="Change to blue" id="blue" onclick="red()">
+            <input type="button" value=" change to red" id="red" onclick="blue()" >
+        </h1>
+        <div>
+            <img src="../img/google.jpg" id="image"><br>
+            <input type="button" value="Facebook" onclick="facebook()" >
+            <input type="button" value="Youtube" onclick="youtube()" >
+        </div>
+
+<script>
+    function red() {
+        document.querySelector('#color').style.backgroundColor='blue'
+    }
+    function blue() {
+        document.querySelector('#color').style.backgroundColor='red'
+    }
+    function facebook() {
+        document.querySelector('#image').setAttribute('src','../img/facebook.jpg')
+    }
+    function youtube() {
+        document.querySelector('#image').setAttribute('src','../img/youtube.jpg')
+    }
+</script>
+</body>
+</html>
