@@ -1,26 +1,26 @@
 //creation of objects , adding properties ,  retrieval
 
-//declaring Object Literals
+var emp={
+    name:'Sachin',
+    age:'24',
+    sub:'comp',
+    address:{
+        city:'aurangabad',
+        state:'maharastra'
+    }
+}
+// Accessing
+console.log(emp)
+console.log(emp.address)
+console.log(emp.address.state)
+emp.salary=50000
+// adding values
+console.log(emp)
 
-//Access existing properties
-
-//Access Non Existing Properties
-
-// Usage of Dot and [] notations
-
-// use of [] notation where dot is not used for invalid identifiers
-
-// use of [] notation for accessing dynamic properties
-
-// nested Objects creation
-
-//Accessing them using dot notation
-
-//Accessing them using mix of dot and [] notation
-
-// Add some properties to nested object and access them
-
-// === operator demo for objects (if pointing to same location in memory)
-
-// deleting a property from an object
+// brackets notation for dyamic value
+var prop='name'
+console.log(emp.prop)  // undefined
+console.log(emp[prop]) // Sachin
+prop='age'
+console.log(emp[prop]) // 24
 

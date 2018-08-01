@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c7c43ce6-529e-401d-9b79-98934b37bdb9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/06_JS_Data_Types/06_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/06_JS_Data_Types/06_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/07_JS_Operators/07_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/07_JS_Operators/07_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html" afterPath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,21 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataTypes_in_Js.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Completed/5.data_types_in_js/DataTypes_in_Js.html">
+      <file leaf-file-name="Arrays_in_js.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Oprators.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators.js">
+      <file leaf-file-name="Arrays_in_js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="326">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -74,6 +77,16 @@
         <option value="$PROJECT_DIR$/Completed/5.data_types_in_js/datatypes_in_js.js" />
         <option value="$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators_in_js.html" />
         <option value="$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js" />
+        <option value="$PROJECT_DIR$/Completed/7.conditional loops/Conditional_loops_js.html" />
+        <option value="$PROJECT_DIR$/Completed/7.conditional loops/conditional_loops.js" />
+        <option value="$PROJECT_DIR$/Completed/8.Objects_un_js/Objects_in_js.html" />
+        <option value="$PROJECT_DIR$/Completed/8.Objects_un_js/Objects_in_js.js" />
+        <option value="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html" />
+        <option value="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js" />
       </list>
     </option>
   </component>
@@ -83,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-88" />
     <option name="y" value="324" />
     <option name="width" value="1346" />
@@ -172,15 +185,17 @@
       <workItem from="1532947424173" duration="2432000" />
       <workItem from="1532956036095" duration="4645000" />
       <workItem from="1533032842176" duration="6121000" />
-      <workItem from="1533045667700" duration="4118000" />
+      <workItem from="1533045667700" duration="4193000" />
+      <workItem from="1533119196604" duration="6517000" />
+      <workItem from="1533138150558" duration="2712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17316000" />
+    <option name="totallyTimeSpent" value="26620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -211,11 +226,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js">
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_JS_Arrays.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/5.data_types_in_js/DataTypes_in_Js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -366,19 +410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -394,7 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -402,7 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -410,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -418,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -426,33 +456,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" column="15" lean-forward="true" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/5.data_types_in_js/DataTypes_in_Js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_JS_Objects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators_in_js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_JS_Arrays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/7.conditional loops/conditional_loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/7.conditional loops/Conditional_loops_js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/8.Objects_un_js/Objects_in_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/8.Objects_un_js/Objects_in_js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/5.data_types_in_js/DataTypes_in_Js.html">
+    <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="326">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/6.Oprators_in_js/Oprators.js">
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="595">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="36" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
