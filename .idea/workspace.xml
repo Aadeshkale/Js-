@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c7c43ce6-529e-401d-9b79-98934b37bdb9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html" afterPath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_Conditional_Statements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/08_JS_Conditional_Statements/08_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/09_JS_Objects/09_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html" afterPath="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js" afterPath="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_JS_Functions.html" afterPath="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_JS_Functions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,24 +20,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Arrays_in_js.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html">
+      <file leaf-file-name="Functions_js.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="292">
+              <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays_in_js.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js">
+      <file leaf-file-name="Functions_js.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +88,10 @@
         <option value="$PROJECT_DIR$/Completed/8.Objects_un_js/Objects_in_js.js" />
         <option value="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html" />
         <option value="$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_JS_Functions.html" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_script.js" />
+        <option value="$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.html" />
+        <option value="$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.js" />
       </list>
     </option>
   </component>
@@ -96,7 +101,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-88" />
     <option name="y" value="324" />
     <option name="width" value="1346" />
@@ -120,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,13 +141,18 @@
             <path>
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Completed" type="462c0819:PsiDirectoryNode" />
+              <item name="10.Functions_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="JS_Starter_Template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -187,17 +198,20 @@
       <workItem from="1533032842176" duration="6121000" />
       <workItem from="1533045667700" duration="4193000" />
       <workItem from="1533119196604" duration="6517000" />
-      <workItem from="1533138150558" duration="2712000" />
+      <workItem from="1533138150558" duration="3328000" />
+      <workItem from="1533205770721" duration="6209000" />
+      <workItem from="1533219315192" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26620000" />
+    <option name="totallyTimeSpent" value="34741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -226,14 +240,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_JS_Arrays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/10_JS_Arrays/10_script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -512,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,10 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,17 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,13 +557,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Completed/9.Arrays/Arrays_in_js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="156">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/11_JS_Functions/11_JS_Functions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/10.Functions_js/Functions_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
