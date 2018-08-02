@@ -33,7 +33,6 @@ function ok() {
 console.log(ok())
 //
 
-
 function msg() {
     document.querySelector('#display').textContent='Please use console to view js ->'
 

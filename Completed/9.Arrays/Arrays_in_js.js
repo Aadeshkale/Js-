@@ -41,17 +41,24 @@ console.log('Index of kale->'+array.indexOf(20))
 array.push(20,30,40)
 // array with seprator
 console.log(array.join('->'))
-// gracery ist example
+
+// display array example
 
 var array=[]
-var iteam=document.querySelector('#iteam').value.toString()
+
 function add() {
-    array.push(iteam)
-    document.querySelector('#display').textContent=array.join(',')
-    document.querySelector('#iteam').value=''
+    var element = document.querySelector('#iteam').value
+    array.push(element)
+    document.querySelector('.display').textContent=array.join(',')
+    console.log(array)
+
 }
 function remove() {
-
+    var element = document.querySelector('#iteam').value
+    var index= array.indexOf(element)
+    array.splice(index,1)
+    document.querySelector('.display').textContent=array.join(',')
+    console.log(array)
 }
 
 
