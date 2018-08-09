@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c43ce6-529e-401d-9b79-98934b37bdb9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/13.Date_time_js/date_time.html" afterPath="$PROJECT_DIR$/Completed/13.Date_time_js/date_time.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/11.Js_number to string/Ns.html" afterPath="$PROJECT_DIR$/Completed/11.Js_number to string/Ns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Completed/11.Js_number to string/ns.css" afterPath="$PROJECT_DIR$/Completed/11.Js_number to string/ns.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/18_Mini_Project.html" afterPath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/18_Mini_Project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/styles.css" afterPath="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_script.js" afterPath="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_styles.css" afterPath="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,31 +24,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="13_script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS_Starter_Template/13_JS_DOM_Manipulation/13_script.js">
+      <file leaf-file-name="18_Mini_Project.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/18_Mini_Project.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dom_js.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Completed/14.DOM-modification/dom_js.js">
+      <file leaf-file-name="Type_checker.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Completed/15.typeing_checker/Type_checker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="139">
+              <caret line="47" column="94" lean-forward="false" selection-start-line="47" selection-start-column="94" selection-end-line="47" selection-end-column="94" />
+              <folding>
+                <element signature="e#1011#1017#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dom_js.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Completed/14.DOM-modification/Dom_js.html">
+      <file leaf-file-name="check.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Completed/15.typeing_checker/check.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="1326">
+              <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -51,9 +71,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -103,6 +123,16 @@
         <option value="$PROJECT_DIR$/Completed/13.Date_time_js/date_time.html" />
         <option value="$PROJECT_DIR$/Completed/14.DOM-modification/Dom_js.html" />
         <option value="$PROJECT_DIR$/Completed/14.DOM-modification/dom_js.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_styles.css" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_script.js" />
+        <option value="$PROJECT_DIR$/Completed/11.Js_number to string/Ns.html" />
+        <option value="$PROJECT_DIR$/Completed/11.Js_number to string/ns.css" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_script.js" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/18_Mini_Project.html" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/styles.css" />
+        <option value="$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/script.js" />
+        <option value="$PROJECT_DIR$/Completed/15.typeing_checker/check.css" />
+        <option value="$PROJECT_DIR$/Completed/15.typeing_checker/Type_checker.html" />
       </list>
     </option>
   </component>
@@ -136,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +182,7 @@
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="14.DOM-modification" type="462c0819:PsiDirectoryNode" />
+              <item name="15.typeing_checker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
@@ -164,13 +193,14 @@
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="JS_Starter_Template" type="462c0819:PsiDirectoryNode" />
-              <item name="13_JS_DOM_Manipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="18_Mini_Project_Typing_Tester_App" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,12 +249,16 @@
       <workItem from="1533205770721" duration="6209000" />
       <workItem from="1533219315192" duration="3444000" />
       <workItem from="1533551261068" duration="6476000" />
-      <workItem from="1533566333942" duration="6403000" />
+      <workItem from="1533566333942" duration="7294000" />
+      <workItem from="1533637764695" duration="6151000" />
+      <workItem from="1533724316260" duration="5611000" />
+      <workItem from="1533810591287" duration="5922000" />
+      <workItem from="1533829734227" duration="9520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49768000" />
+    <option name="totallyTimeSpent" value="77863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -259,63 +293,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/01_Basics_JS/01_script.js" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/04_External_JavaScript/04_External.html" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/01_Basics_JS/01_Basics.html" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/02_Inline_JavaScript/02_styles.css" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/04_External_JavaScript/04_script.js" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/03_Internal_JavaScript/03_styles.css" />
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/02_Inline_JavaScript/02_Inline.html" />
-    <entry file="file://$PROJECT_DIR$/Completed/2.Internal_Js/internal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/1.Inline_js/inline.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/3.external_js/external.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/1.Inline_js/inline_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/2.Internal_Js/internal_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/3.external_js/external_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/3.external_js/external.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_Variables.html" />
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_styles.css" />
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/06_JS_Data_Types/06_styles.css" />
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/05_Variable_Declaration/05_script.js" />
@@ -439,9 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -449,7 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,38 +430,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/13.Date_time_js/date_time.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Completed/14.DOM-modification/Dom_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS_Starter_Template/13_JS_DOM_Manipulation/13_script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Completed/14.DOM-modification/dom_js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="17">
           <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/14.DOM-modification/Dom_js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_Form_Validation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/19_Form_Validation/19_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/11.Js_number to string/ns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/11.Js_number to string/ns.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/11.Js_number to string/Ns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/14_JS_Scopes_Concept/14_JS_Scopes_Concepts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/15_JS_Compilation_Interpretation/15_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="100" column="8" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/13.Date_time_js/date_time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Starter_Template/18_Mini_Project_Typing_Tester_App/18_Mini_Project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/15.typeing_checker/Type_checker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="47" column="94" lean-forward="false" selection-start-line="47" selection-start-column="94" selection-end-line="47" selection-end-column="94" />
+          <folding>
+            <element signature="e#1011#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Completed/15.typeing_checker/check.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
           <folding />
         </state>
       </provider>

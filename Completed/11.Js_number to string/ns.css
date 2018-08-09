@@ -20,7 +20,7 @@ body{
     text-align: center;
     padding: 10px;
 }
-input[type=text]{
+input[type=number]{
     height: 30px;
     width: 200px;
     outline: none;

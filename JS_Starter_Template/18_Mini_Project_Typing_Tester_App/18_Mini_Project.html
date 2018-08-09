@@ -31,17 +31,20 @@
 <br>
 <section class="text-area-section">
     <div class="text-area-div">
-        <textarea onpaste="return false" id="text-area" rows="4" cols="53" placeholder="The Clock starts when you starts typing.."></textarea>
+        <textarea id="text-area" rows="4" cols="53" placeholder="The Clock starts when you starts typing.."></textarea>
     </div>
 </section>
 
 <br>
 <section class="result-section">
     <div class="result-section-div">
-        <span class="timer">00:00:00</span>
+        <span class="timer">
+            <span id="minutes">00 </span>Mins
+            <span id="seconds">00 </span>Secs
+        </span>
         <span>
                 <button type="button" id="reset">Reset</button>
-            </span>
+        </span>
     </div>
 </section>
 

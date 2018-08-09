@@ -3,10 +3,28 @@
 // Scopes introduction
 
 // Block scoping for FOR loop
+for (i=0;i<=10;i++){
 
+}
+console.log(i)
 //Block scoping for if Block
+var course='english'
+if( course==='english'){
+
+}
+console.log(course)
 
 // Function Scoping
+function allocDepartment() {
+    if(course==='english'){
+        var dept='medical'
+    }
+}
+// course.log(dept)
+
+
+
+
 
 // coding exercises
 
@@ -54,6 +72,13 @@ function greet(name) {
 greet("John");
 
 //  IIFE example
+(function () {
+   var greeting = 'welcome'
+   console.log(greeting)
+})
+();
+
+
 
 
 // Read and Write Operations for variables
