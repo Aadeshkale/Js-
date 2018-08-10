@@ -18,9 +18,6 @@ body{
     text-align: center;
     font-size: 18px;
 }
-#minutes,#seconds{
-    color: red;
-}
 
 .intro-section div{
     margin: 0 auto; /* place center */
@@ -123,3 +120,6 @@ footer small{
     color: orangered;
 }
 
+#minutes , #seconds{
+    color: red;
+}
