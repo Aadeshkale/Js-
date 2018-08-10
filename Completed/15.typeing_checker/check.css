@@ -93,3 +93,7 @@ body{
 #msg p{
     padding: 0px;
 }
+#timer span{
+    color: red;
+    padding: 7px;
+}
